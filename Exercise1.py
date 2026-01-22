@@ -33,7 +33,6 @@ while True:
     """
 
     print(help_text)
-
     operation = input("Enter the operation type (1/2/3/4/5/6):")
 
     if operation == "1":
@@ -65,7 +64,6 @@ while True:
             continue
         print(a%b)
         history.append(f"{a}%{b} ={a%b}")
-
     else:
         print("Not a valid command ,Try again!")
     
