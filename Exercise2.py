@@ -144,7 +144,7 @@ else:
 
 print(f"Age: {age}\nDay of the Week: {day_of_the_week}\nPrice: {price}")
 
-    
+print("Add")   
     
     
     
