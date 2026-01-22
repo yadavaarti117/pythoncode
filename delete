@@ -1,4 +1,4 @@
-print("Hello, Aarati!")
+Delete unwanted fileprint("Hello, Aarati!")
 
 newline = "Hello\nWorld"
 print(newline)
